@@ -1,5 +1,5 @@
 # Multi-threaded-Programs-and-Synchronization
-CS342-Operating System Project 2
+CS342-Operating Systems Project 2
 
 type make to compile
 
